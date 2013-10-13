@@ -1,0 +1,96 @@
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\SpiderGame.exe
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\SpiderGame.pdb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\SpiderGame.exe
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\SpiderGame.pdb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\human.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasGauche.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasDroit.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\projectile.xnb
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasGauche.xnb
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\human.xnb
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasDroit.xnb
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\projectile.xnb
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\SpiderGame.exe
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\SpiderGame.pdb
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\SpiderGame.exe
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\SpiderGame.pdb
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\spider.xnb
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\heart.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasGauche.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\human.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasDroit.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\projectile.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\spider.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\heart.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\SpiderGame.exe
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\SpiderGame.pdb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\SpiderGame.exe
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\SpiderGame.pdb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\forest-background.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\gameOverScreen.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\mainMenuScreen.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\General.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\exit.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\retry.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\return.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\start.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\easy.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\god.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\hard.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\medium.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\normal.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\cancel.xnb
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\title.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\spider.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\heart.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\forest-background.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\gameOverScreen.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\mainMenuScreen.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\exit.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\mainMenu.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\retry.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\return.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\start.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\easy.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\god.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\hard.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\medium.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\normal.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\cancel.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\title.xnb
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\General.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasGauche.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\human.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasDroit.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\projectile.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\spider.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\heart.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\forest-background.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\gameOverScreen.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\mainMenuScreen.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\exit.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\retry.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\return.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\start.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\easy.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\god.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\hard.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\medium.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\normal.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\cancel.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\title.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\General.xnb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\SpiderGame.exe
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\SpiderGame.pdb
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\SpiderGame.exe
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\SpiderGame.pdb

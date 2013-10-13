@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>brasGauche.png</Source>
+      <Name>brasGauche</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasGauche.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>human.png</Source>
+      <Name>human</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\human.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>brasDroit.png</Source>
+      <Name>brasDroit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\brasDroit.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>projectile.png</Source>
+      <Name>projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\projectile.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>spider.png</Source>
+      <Name>spider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\spider.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>heart.png</Source>
+      <Name>heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\heart.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>forest-background.png</Source>
+      <Name>forest-background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\forest-background.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOverScreen.png</Source>
+      <Name>gameOverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\gameOverScreen.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenuScreen.png</Source>
+      <Name>mainMenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\mainMenuScreen.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\exit.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu.png</Source>
+      <Name>mainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\mainMenu.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>retry.png</Source>
+      <Name>retry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\retry.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>return.png</Source>
+      <Name>return</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\return.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>start.png</Source>
+      <Name>start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\start.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>easy.png</Source>
+      <Name>easy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\easy.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>god.png</Source>
+      <Name>god</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\god.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hard.png</Source>
+      <Name>hard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\hard.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>medium.png</Source>
+      <Name>medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\medium.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>normal.png</Source>
+      <Name>normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\normal.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cancel.png</Source>
+      <Name>cancel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\cancel.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>title.png</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\title.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>General.spritefont</Source>
+      <Name>General</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\General.xnb</Output>
+      <Time>2013-03-12T10:23:11+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EE7C9BCC-FE4B-40A0-9361-B143C3EC1E65}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGameContent\</RootDirectory>
+      <LoggerRootDirectory>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\</LoggerRootDirectory>
+      <IntermediateDirectory>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-04T16:20:30.614661+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

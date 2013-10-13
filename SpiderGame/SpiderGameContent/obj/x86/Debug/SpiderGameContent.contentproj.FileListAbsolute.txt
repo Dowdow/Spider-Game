@@ -1,0 +1,4 @@
+U:\2annee\module libre\SpiderGame\SpiderGame\SpiderGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\module libre\module libre\SpiderGame\SpiderGame\SpiderGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bahamut Heroes\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Léo Pro\Documents\Visual Studio 2010\Projects\SpiderGame\SpiderGame\SpiderGameContent\obj\x86\Debug\ResolveAssemblyReference.cache

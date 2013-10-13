@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderGame", "SpiderGame\SpiderGame\SpiderGame.csproj", "{CA924E85-50A8-4CEE-BBA3-3C42A66BA975}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SpiderGameContent", "SpiderGame\SpiderGameContent\SpiderGameContent.contentproj", "{EE7C9BCC-FE4B-40A0-9361-B143C3EC1E65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA924E85-50A8-4CEE-BBA3-3C42A66BA975}.Debug|x86.ActiveCfg = Debug|x86
+		{CA924E85-50A8-4CEE-BBA3-3C42A66BA975}.Debug|x86.Build.0 = Debug|x86
+		{CA924E85-50A8-4CEE-BBA3-3C42A66BA975}.Release|x86.ActiveCfg = Release|x86
+		{CA924E85-50A8-4CEE-BBA3-3C42A66BA975}.Release|x86.Build.0 = Release|x86
+		{EE7C9BCC-FE4B-40A0-9361-B143C3EC1E65}.Debug|x86.ActiveCfg = Debug|x86
+		{EE7C9BCC-FE4B-40A0-9361-B143C3EC1E65}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
